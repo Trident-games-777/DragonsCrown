@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DragonsCrown</string>
+
+    <string name="facebook_app_id">902575747810441</string>
+    <string name="facebook_client_token">e39c5521b57f1645764c86c7e7c4ea97</string>
+    <string name="iv1">iv1</string>
+    <string name="iv2">iv2</string>
+    <string name="iv3">iv3</string>
+    <string name="go">Go</string>
+    <string name="coins">Coins</string>
+</resources>

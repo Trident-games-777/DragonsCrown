@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477011759406",
+    "project_id": "dragonscrown-8bcd2",
+    "storage_bucket": "dragonscrown-8bcd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477011759406:android:daaf5fb56529744ac56abf",
+        "android_client_info": {
+          "package_name": "com.robtopx.geometrydashworl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477011759406-d7euv37ob7ehln45tmp1rmfb633benkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ECpS_7qg8KLj1YmHGvE6W4htUCTiwr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477011759406-d7euv37ob7ehln45tmp1rmfb633benkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
